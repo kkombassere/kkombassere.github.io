@@ -1,0 +1,1 @@
+Trois images ont été ajoutées à la galerie dans la section Univers. Remplacer index.html par index_updated.html et pousser assets/*.
