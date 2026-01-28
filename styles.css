@@ -33,5 +33,5 @@ header { position: sticky; top:0; background: rgba(255,255,255,0.9); backdrop-fi
 .kpis { display:grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
 .kpi { background: var(--bg-alt); padding: 14px; border-radius: 10px; border:1px solid var(--border); }
 .footer { border-top: 1px solid var(--border); padding: 24px 0; color: #6b7280; font-size: 0.95rem; }
-.notice { display:flex; align-items:center; gap:14px; border:1px dashed var(--ocre); background: #fff7ed; color:#7c2d12; padding: 12px; border-radius: 12px; }
+.notice { display:flex; justify-content: center; align-items:center; gap:14px; border:1px dashed var(--ocre); background: #fff7ed; color:#7c2d12; padding: 12px; border-radius: 12px; }
 @media (min-width: 900px) { .hero .content { padding: 120px 0 140px; } }
